@@ -1,0 +1,32 @@
+name: syngel
+description: Centralized model generator
+version: 0.0.1
+schema_version: 0
+repository: https://github.com/vieolo/syngel
+issue_tracker: https://github.com/vieolo/syngel/issues
+license: "MIT"
+external:
+  gomore:
+    commands:
+      # build: go build main.go
+      # test: go test
+
+# authors:
+#   - name: Jane Doe
+#     email: jane@example.com
+#     organization: Example Org
+#     url: https://example.com
+#   - name: John Smith
+
+# executables:
+#   admin:
+#     entrypoint: ./cmd/admin
+#   server:
+#     entrypoint: ./cmd/server
+#     description: HTTP API server.
+
+# external:
+#   mytool:
+#     enabled: true
+#     paths:
+#       - ./cmd

@@ -1,0 +1,5 @@
+package syngel
+
+func main() {
+
+}
